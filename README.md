@@ -1,6 +1,9 @@
 # COMP.5230Project
 The repository is for the lung segmentation project for COMP.5230, Spring 2018
 
+Building the project requires the Insight Toolkit (ITK). This can be found
+at https://itk.org
+
 The directory structure is as follows:
 
 root
